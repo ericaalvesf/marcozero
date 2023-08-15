@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <section>
+            <ul><h1>Atividade Proz:</h1></ul>
+        </section>
+        <ul>A cidade do Recife é uma das mais famosas do Nordeste, ela possui diversos pontos turísticos e um deles é o Marco Zero.</ul>
+        <ul>Sabendo disso, crie uma página HTML, falando sobre esse ponto turístico de acordo com os seguintes pré-requisitos:</ul>
+            <ul>
+                <li>A página precisa ter cabeçalho, conteúdo e rodapé;</li>
+                <li>A página precisa ter imagens;</li>
+                <li>Use a tag de semântica textual inline. </li>
+            </ul>
+            <ul>Abuse de sua criatividade para a criação da página!</ul>        
+           </ul>
+    <header>
+        <span>Marco Zero</span>
+        <nav>
+            <ul>
+                <li>Marco Zero</li>
+                <li>Sobre</li>
+                <li>Fotos</li>
+            </ul>
+        </nav>
+    </header>
+           <section>
+            <ul><h1>Marco Zero</h1></ul>
+           </section>
+           <section>
+            <ul>O Marco Zero no Recife Antigo é um dos pontos turísticos mais importantes para quem deseja conhecer a capital de Pernambuco. Isso porque é um local de importância histórica que conta o nascimento da cidade e possui forte referência cultural.
+                Além disso, o Marco Zero recebe, anualmente, diversas comemorações e manifestações e também é um lugar muito famoso para quem busca eventos como o Carnaval. </ul>
+            <ul><img src="marcozero.jpeg" alt=""></ul>    
+           </section>
+           <section>
+            <ul><h1>Sobre:</h1></ul>
+           </section>
+           <ul>O Marco Zero no Recife Antigo é o lugar de referência onde a cidade nasceu e todas as medidas oficiais de distâncias rodoviárias usam como ponto de partida. Seu nome é, na verdade, Praça Rio Branco e fica ao lado do Porto de Pernambuco.
+
+            Pode-se dizer que ele se situa no centro histórico da cidade, que é mais conhecido como Recife Antigo por ser a parte onde se iniciou o povoamento da capital pernambucana.
+            
+            A popularização do nome Marco Zero aconteceu desde 1938, devido à instalação do símbolo geográfico na parte central da praça. Ele foi uma doação do Automóvel Clube de Pernambuco.
+            
+            Além disso, há nela uma estátua de bronze de 2,80 metros, de autoria do escultor francês Félix Charpentier.</ul>
+            <section>
+                <ul><img src="foto.jpg" alt=""></ul> 
+            </section>
+            <section>
+                <ul>Saiba mais clicando <a href="#">aqui</a></ul>
+            </section>
+            <footer>
+                <p>
+                   Endereço: Rua tal, nº Não tem - Bairro o mesmo -
+                   Cidade/Estado
+                </p>
+                <p>Telefone: (00) 0000-0000 | E-mail: marcozero@marcozero.com</p>
+                <p>
+                   Redes Sociais: <a href="#">Facebook</a> | <a href="#">Instagram</a> |
+                   <a href="#">Twitter</a>
+                </p>
+                <div>
+        
+                <p>&copy; 2023 - Nome da clínica. Todos os direitos reservados.</p>
+             </footer>
+</section>
+    </header>
+</body>
+</html>
